@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic tailor workshop where a tailor is obsessively stitching a suit onto one mannequin so tightly that the fabric looks strained and unnatural, while several other mannequins nearby wear similar suits but they fit them poorly or loosely, clear contrast between perfect overfit and poor fit, cinematic lighting, highly realistic, no text, no labels",
+  "model": "Gemini",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored perfectly for one mannequin but fitting poorly on others, representing lack of generalization"
+}
