@@ -1,6 +1,6 @@
 {
-  "prompt": "A realistic tailor workshop where a tailor is obsessively stitching a suit onto one mannequin so tightly that the fabric looks strained and unnatural, while several other mannequins nearby wear similar suits but they fit them poorly or loosely, clear contrast between perfect overfit and poor fit, cinematic lighting, highly realistic, no text, no labels",
-  "model": "Gemini",
-  "concept": "overfitting",
-  "metaphor": "A suit tailored perfectly for one mannequin but fitting poorly on others, representing lack of generalization"
+  "prompt": "A realistic tailor workshop where a craftsman is obsessively adjusting a suit on a mannequin, pinning and stitching it to fit with extreme precision. The mannequin is perfectly fitted, but nearby a real human wearing a similar suit looks uncomfortable and poorly fitted. Several mannequins with slightly different shapes stand around the room. The scene should feel natural and physically plausible, warm indoor lighting, detailed textures of fabric and wood, no text, no symbols, no diagrams, cinematic composition, high detail, 4k realism.",
+  "model": "DALL·E 3",
+  "concept": "Overfitting",
+  "metaphor": "A suit perfectly tailored to mannequins fails to fit a real person, showing precise training fit but poor generalization."
 }
